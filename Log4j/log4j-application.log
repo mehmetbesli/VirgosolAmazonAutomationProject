@@ -1,0 +1,519 @@
+2021-10-15 11:20:15 INFO  LoginPage:27 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 11:20:16 INFO  LoginPage:33 - WebTest.Test: Main page opened
+2021-10-15 11:21:35 INFO  LoginPage:27 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 11:21:36 INFO  LoginPage:33 - WebTest.Test: Main page opened
+2021-10-15 11:25:29 INFO  LoginPage:27 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 11:25:29 INFO  LoginPage:33 - WebTest.Test: Main page opened
+2021-10-15 11:25:32 INFO  LoginPage:39 - WebTest.Test: Clicked Login
+2021-10-15 11:34:21 INFO  LoginPage:27 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 11:34:21 INFO  LoginPage:33 - WebTest.Test: Main page exist
+2021-10-15 11:34:23 INFO  LoginPage:39 - WebTest.Test: Clicked Login
+2021-10-15 11:34:24 INFO  LoginPage:45 - WebTest.Test: Typed eposta
+2021-10-15 11:34:26 INFO  LoginPage:49 - WebTest.Test: Typed password
+2021-10-15 11:36:19 INFO  LoginPage:27 - : https://www.amazon.com.tr/ opened
+2021-10-15 11:36:20 INFO  LoginPage:33 - : Main page exist
+2021-10-15 11:36:22 INFO  LoginPage:39 - : Clicked Login
+2021-10-15 11:36:23 INFO  LoginPage:45 - : Typed eposta
+2021-10-15 11:36:25 INFO  LoginPage:49 - : Typed password
+2021-10-15 11:37:30 INFO  LoginPage:27 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 11:37:31 INFO  LoginPage:33 - WebTest.Test: Main page exist
+2021-10-15 11:37:33 INFO  LoginPage:39 - WebTest.Test: Clicked Login
+2021-10-15 11:37:33 INFO  LoginPage:45 - WebTest.Test: Typed eposta
+2021-10-15 11:37:35 INFO  LoginPage:47 - WebTest.Test: Cliked continue
+2021-10-15 11:37:35 INFO  LoginPage:49 - WebTest.Test: Typed password
+2021-10-15 11:37:35 INFO  LoginPage:51 - WebTest.Test: Cliked login
+2021-10-15 11:41:52 INFO  LoginPage:27 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 11:41:52 INFO  LoginPage:33 - WebTest.Test: Main page exist
+2021-10-15 11:41:55 INFO  LoginPage:39 - WebTest.Test: Clicked Login
+2021-10-15 11:41:55 INFO  LoginPage:45 - WebTest.Test: Typed eposta
+2021-10-15 11:41:57 INFO  LoginPage:47 - WebTest.Test: Clicked continue
+2021-10-15 11:41:57 INFO  LoginPage:49 - WebTest.Test: Typed password
+2021-10-15 11:41:57 INFO  LoginPage:51 - WebTest.Test: Clicked login
+2021-10-15 11:42:00 INFO  LoginPage:57 - WebTest.Test: Logged to Amazon
+2021-10-15 12:09:18 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 12:09:18 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 12:09:21 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 12:09:21 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 12:09:22 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 12:09:23 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 12:09:23 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 12:09:25 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 12:09:29 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 12:09:29 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 12:09:30 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 12:09:33 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 12:10:31 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 12:10:31 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 12:10:33 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 12:10:33 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 12:10:35 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 12:10:36 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 12:10:36 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 12:10:39 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 12:10:42 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 12:10:42 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 12:10:43 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 12:10:46 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 12:11:53 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 12:11:53 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 12:11:56 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 12:11:56 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 12:11:58 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 12:11:58 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 12:11:58 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 12:12:02 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 12:12:05 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 12:12:05 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 12:12:06 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 12:12:09 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 12:12:09 INFO  MainPage:53 - WebTest.Test: msi is searched
+2021-10-15 12:12:09 INFO  MainPage:59 - Scrolled main page down
+2021-10-15 12:12:50 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 12:12:50 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 12:12:52 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 12:12:53 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 12:12:54 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 12:12:54 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 12:12:54 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 12:12:57 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 12:13:00 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 12:13:01 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 12:13:01 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 12:13:05 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 12:13:05 INFO  MainPage:53 - WebTest.Test: msi is searched
+2021-10-15 12:13:23 INFO  MainPage:59 - Scrolled main page down
+2021-10-15 12:13:49 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 12:13:49 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 12:13:52 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 12:13:52 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 12:13:54 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 12:13:54 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 12:13:55 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 12:13:58 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 12:14:03 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 12:14:03 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 12:14:04 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 12:14:10 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 12:14:11 INFO  MainPage:53 - WebTest.Test: msi is searched
+2021-10-15 12:14:27 INFO  MainPage:59 - Scrolled main page down
+2021-10-15 12:14:58 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 12:14:58 INFO  LoginPage:78 - WebTest.Test: Amazon logo exist
+2021-10-15 12:14:58 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 12:15:01 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 12:15:01 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 12:15:03 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 12:15:03 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 12:15:04 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 12:15:07 INFO  MainPage:78 - WebTest.Test: Page content exist
+2021-10-15 12:15:07 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 12:15:10 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 12:15:10 INFO  MainPage:78 - Compare Successfull
+2021-10-15 12:15:10 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 12:15:11 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 12:15:14 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 12:15:14 INFO  MainPage:78 - Compare Successfull
+2021-10-15 12:15:14 INFO  MainPage:53 - WebTest.Test: msi is searched
+2021-10-15 12:15:14 INFO  MainPage:59 - Scrolled main page down
+2021-10-15 13:58:20 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 13:58:20 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 13:58:20 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 13:58:22 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 13:58:23 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 13:58:25 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 13:58:25 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 13:58:25 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 13:58:29 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 13:58:29 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 13:58:33 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 13:58:33 INFO  MainPage:79 - Compare Successfull
+2021-10-15 13:58:33 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 13:58:34 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 13:58:38 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 13:58:38 INFO  MainPage:79 - Compare Successfull
+2021-10-15 13:58:38 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 13:58:38 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:00:15 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:00:15 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:00:15 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:00:18 INFO  LoginPage:40 - WebTest.Test: Clicked Login
+2021-10-15 14:00:18 INFO  LoginPage:46 - WebTest.Test: Typed eposta
+2021-10-15 14:00:20 INFO  LoginPage:48 - WebTest.Test: Clicked continue
+2021-10-15 14:00:20 INFO  LoginPage:50 - WebTest.Test: Typed password
+2021-10-15 14:00:21 INFO  LoginPage:52 - WebTest.Test: Clicked login
+2021-10-15 14:00:27 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:00:27 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:00:30 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:00:30 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:00:30 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:00:31 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:00:34 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:00:35 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:00:35 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:00:35 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:07:24 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:07:24 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:07:24 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:07:25 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:07:27 INFO  LoginPage:48 - WebTest.Test: Clicked Login
+2021-10-15 14:07:27 INFO  LoginPage:54 - WebTest.Test: Typed eposta
+2021-10-15 14:07:29 INFO  LoginPage:56 - WebTest.Test: Clicked continue
+2021-10-15 14:07:29 INFO  LoginPage:58 - WebTest.Test: Typed password
+2021-10-15 14:07:29 INFO  LoginPage:60 - WebTest.Test: Clicked login
+2021-10-15 14:07:33 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:07:33 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:07:37 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:07:37 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:07:37 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:07:37 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:07:41 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:07:41 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:07:41 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:07:42 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:07:45 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:07:45 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:09:08 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:09:09 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:09:09 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:09:09 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:10:16 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:10:17 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:10:17 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:10:17 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:10:19 INFO  LoginPage:48 - WebTest.Test: Clicked Login
+2021-10-15 14:10:20 INFO  LoginPage:54 - WebTest.Test: Typed eposta
+2021-10-15 14:10:21 INFO  LoginPage:56 - WebTest.Test: Clicked continue
+2021-10-15 14:10:22 INFO  LoginPage:58 - WebTest.Test: Typed password
+2021-10-15 14:10:22 INFO  LoginPage:60 - WebTest.Test: Clicked login
+2021-10-15 14:10:25 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:10:25 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:10:29 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:10:29 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:10:29 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:10:29 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:10:33 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:10:33 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:10:33 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:10:33 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:10:36 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:10:36 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:10:39 INFO  MainPage:79 - WebTest.Test: Clicked second product
+2021-10-15 14:10:47 INFO  MainPage:81 - WebTest.Test: Clicked add basket
+2021-10-15 14:10:47 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:10:47 INFO  MainPage:88 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 14:10:52 INFO  MainPage:94 - WebTest.Test: Clicked shopping list
+2021-10-15 14:12:51 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:12:52 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:12:52 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:12:52 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:12:54 INFO  LoginPage:48 - WebTest.Test: Clicked Login
+2021-10-15 14:12:54 INFO  LoginPage:54 - WebTest.Test: Typed eposta
+2021-10-15 14:12:56 INFO  LoginPage:56 - WebTest.Test: Clicked continue
+2021-10-15 14:12:56 INFO  LoginPage:58 - WebTest.Test: Typed password
+2021-10-15 14:12:56 INFO  LoginPage:60 - WebTest.Test: Clicked login
+2021-10-15 14:13:00 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:13:00 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:13:04 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:13:04 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:13:04 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:13:04 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:13:10 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:13:10 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:13:10 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:13:10 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:13:13 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:13:13 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:19:32 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:19:32 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:19:32 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:19:32 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:19:35 INFO  LoginPage:48 - WebTest.Test: Clicked Login
+2021-10-15 14:19:35 INFO  LoginPage:54 - WebTest.Test: Typed eposta
+2021-10-15 14:19:37 INFO  LoginPage:56 - WebTest.Test: Clicked continue
+2021-10-15 14:19:37 INFO  LoginPage:58 - WebTest.Test: Typed password
+2021-10-15 14:19:38 INFO  LoginPage:60 - WebTest.Test: Clicked login
+2021-10-15 14:19:41 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:19:41 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:19:45 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:19:45 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:19:45 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:19:45 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:19:49 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:19:49 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:19:49 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:19:49 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:19:52 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:19:52 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:19:56 INFO  MainPage:80 - WebTest.Test: Clicked second product
+2021-10-15 14:20:02 INFO  MainPage:86 - WebTest.Test: Clicked add basket
+2021-10-15 14:20:03 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:20:03 INFO  MainPage:93 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 14:20:08 INFO  MainPage:99 - WebTest.Test: Clicked shopping list
+2021-10-15 14:22:40 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:22:41 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:22:41 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:22:41 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:32:40 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:32:40 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:32:40 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:32:41 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:32:41 INFO  LoginPage:48 - WebTest.Test: Hovered account
+2021-10-15 14:32:43 INFO  LoginPage:50 - WebTest.Test: Clicked Login
+2021-10-15 14:32:43 INFO  LoginPage:56 - WebTest.Test: Typed eposta
+2021-10-15 14:32:44 INFO  LoginPage:58 - WebTest.Test: Clicked continue
+2021-10-15 14:32:45 INFO  LoginPage:60 - WebTest.Test: Typed password
+2021-10-15 14:32:45 INFO  LoginPage:62 - WebTest.Test: Clicked login
+2021-10-15 14:32:48 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:32:48 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:32:52 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:32:52 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:32:52 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:32:52 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:32:56 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:32:56 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:32:56 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:32:56 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:32:59 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:32:59 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:37:22 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:37:22 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:37:22 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:37:23 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:37:23 INFO  LoginPage:48 - WebTest.Test: Hovered account
+2021-10-15 14:37:25 INFO  LoginPage:50 - WebTest.Test: Clicked Login
+2021-10-15 14:37:25 INFO  LoginPage:56 - WebTest.Test: Typed eposta
+2021-10-15 14:37:27 INFO  LoginPage:58 - WebTest.Test: Clicked continue
+2021-10-15 14:37:27 INFO  LoginPage:60 - WebTest.Test: Typed password
+2021-10-15 14:37:27 INFO  LoginPage:62 - WebTest.Test: Clicked login
+2021-10-15 14:37:30 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:37:30 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:37:34 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:37:34 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:37:34 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:37:34 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:37:38 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:37:38 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:37:38 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:37:38 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:37:41 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:37:41 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:37:45 INFO  MainPage:79 - WebTest.Test: Clicked second product
+2021-10-15 14:37:51 INFO  MainPage:81 - WebTest.Test: Clicked add basket
+2021-10-15 14:37:51 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:37:51 INFO  MainPage:88 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 14:37:56 INFO  MainPage:94 - WebTest.Test: Clicked shopping list
+2021-10-15 14:39:41 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:39:41 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:39:41 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:39:42 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:39:42 INFO  LoginPage:48 - WebTest.Test: Hovered account
+2021-10-15 14:39:44 INFO  LoginPage:50 - WebTest.Test: Clicked Login
+2021-10-15 14:39:44 INFO  LoginPage:56 - WebTest.Test: Typed eposta
+2021-10-15 14:39:46 INFO  LoginPage:58 - WebTest.Test: Clicked continue
+2021-10-15 14:39:46 INFO  LoginPage:60 - WebTest.Test: Typed password
+2021-10-15 14:39:47 INFO  LoginPage:62 - WebTest.Test: Clicked login
+2021-10-15 14:39:50 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:39:50 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:39:53 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:39:53 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:39:53 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:39:53 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:39:58 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:39:58 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:39:58 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:39:58 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:40:01 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:40:01 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:40:05 INFO  MainPage:79 - WebTest.Test: Clicked second product
+2021-10-15 14:40:10 INFO  MainPage:81 - WebTest.Test: Clicked add basket
+2021-10-15 14:40:10 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:40:10 INFO  MainPage:88 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 14:40:18 INFO  MainPage:94 - WebTest.Test: Clicked shopping list
+2021-10-15 14:40:18 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:40:18 INFO  MainPage:101 - WebTest.Test: Alışveriş Sepeti Shopping basket exist
+2021-10-15 14:40:19 INFO  MainPage:107 - WebTest.Test: Clicked delete and product deleted
+2021-10-15 14:40:19 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:40:19 INFO  MainPage:114 - WebTest.Test: Alışveriş Sepetiniz konumundan kaldırıldı Product is not exist
+2021-10-15 14:40:19 INFO  MainPage:120 - WebTest.Test: Hovered to account
+2021-10-15 14:40:21 INFO  MainPage:122 - WebTest.Test: Clicked logout
+2021-10-15 14:40:22 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:40:22 INFO  MainPage:129 - WebTest.Test: Giriş yap page is exist
+2021-10-15 14:46:03 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:46:03 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:46:03 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:46:04 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:46:04 INFO  LoginPage:48 - WebTest.Test: Hovered account
+2021-10-15 14:46:06 INFO  LoginPage:50 - WebTest.Test: Clicked Login
+2021-10-15 14:46:06 INFO  LoginPage:56 - WebTest.Test: Typed eposta
+2021-10-15 14:46:08 INFO  LoginPage:58 - WebTest.Test: Clicked continue
+2021-10-15 14:46:09 INFO  LoginPage:60 - WebTest.Test: Typed password
+2021-10-15 14:46:09 INFO  LoginPage:62 - WebTest.Test: Clicked login
+2021-10-15 14:46:12 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:46:12 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:46:16 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:46:16 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:46:16 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:46:16 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:46:20 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:46:20 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:46:20 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:46:20 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:46:23 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:46:23 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:46:28 INFO  MainPage:79 - WebTest.Test: Clicked second product
+2021-10-15 14:46:33 INFO  MainPage:81 - WebTest.Test: Clicked add basket
+2021-10-15 14:46:33 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:46:33 INFO  MainPage:88 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 14:46:37 INFO  MainPage:94 - WebTest.Test: Clicked shopping list
+2021-10-15 14:46:38 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:46:38 INFO  MainPage:101 - WebTest.Test: Alışveriş Sepeti Shopping basket exist
+2021-10-15 14:46:38 INFO  MainPage:108 - WebTest.Test: Clicked delete and product deleted
+2021-10-15 14:46:38 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:46:38 INFO  MainPage:119 - WebTest.Test: Alışveriş Sepetiniz konumundan kaldırıldı Product is not exist
+2021-10-15 14:46:38 INFO  MainPage:125 - WebTest.Test: Hovered to account
+2021-10-15 14:46:44 INFO  MainPage:127 - WebTest.Test: Clicked logout
+2021-10-15 14:46:44 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:46:44 INFO  MainPage:134 - WebTest.Test: Giriş yap page is exist
+2021-10-15 14:55:44 INFO  LoginPage:28 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:55:44 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:55:44 INFO  LoginPage:34 - WebTest.Test: Main page exist
+2021-10-15 14:55:45 INFO  LoginPage:41 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:55:45 INFO  LoginPage:48 - WebTest.Test: Hovered account
+2021-10-15 14:55:47 INFO  LoginPage:50 - WebTest.Test: Clicked Login
+2021-10-15 14:55:47 INFO  LoginPage:56 - WebTest.Test: Typed eposta
+2021-10-15 14:55:49 INFO  LoginPage:58 - WebTest.Test: Clicked continue
+2021-10-15 14:55:49 INFO  LoginPage:60 - WebTest.Test: Typed password
+2021-10-15 14:55:49 INFO  LoginPage:62 - WebTest.Test: Clicked login
+2021-10-15 14:55:52 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:55:52 INFO  MainPage:22 - WebTest.Test: Logged to Amazon
+2021-10-15 14:55:56 INFO  MainPage:28 - WebTest.Test: Clicked Category pc
+2021-10-15 14:55:56 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:55:56 INFO  MainPage:35 - WebTest.Test: PC category selected
+2021-10-15 14:55:56 INFO  MainPage:41 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:56:00 INFO  MainPage:47 - WebTest.Test: Clicked Category pc
+2021-10-15 14:56:00 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:56:00 INFO  MainPage:54 - WebTest.Test: msi is searched
+2021-10-15 14:56:00 INFO  MainPage:60 - WebTest.Test: Scrolled main page down
+2021-10-15 14:56:02 INFO  MainPage:62 - WebTest.Test: Opened second page
+2021-10-15 14:56:02 INFO  MainPage:69 - WebTest.Test: Second page is opened
+2021-10-15 14:56:07 INFO  MainPage:79 - WebTest.Test: Clicked second product
+2021-10-15 14:56:18 INFO  MainPage:81 - WebTest.Test: Clicked add basket
+2021-10-15 14:56:18 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:56:18 INFO  MainPage:88 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 14:56:21 INFO  MainPage:94 - WebTest.Test: Clicked shopping list
+2021-10-15 14:56:21 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:56:21 INFO  MainPage:101 - WebTest.Test: Alışveriş Sepeti Shopping basket exist
+2021-10-15 14:56:21 INFO  MainPage:108 - WebTest.Test: Clicked delete and product deleted
+2021-10-15 14:56:21 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:56:21 INFO  MainPage:119 - WebTest.Test: Alışveriş Sepetiniz konumundan kaldırıldı Product is not exist
+2021-10-15 14:56:22 INFO  MainPage:125 - WebTest.Test: Hovered to account
+2021-10-15 14:56:23 INFO  MainPage:127 - WebTest.Test: Clicked logout
+2021-10-15 14:56:24 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:56:24 INFO  MainPage:134 - WebTest.Test: Giriş yap page is exist
+2021-10-15 14:58:00 INFO  LoginPage:22 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 14:58:00 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 14:58:00 INFO  LoginPage:28 - WebTest.Test: Main page exist
+2021-10-15 14:58:01 INFO  LoginPage:35 - WebTest.Test: Clicked accept cookies
+2021-10-15 14:58:01 INFO  LoginPage:42 - WebTest.Test: Hovered account
+2021-10-15 14:58:03 INFO  LoginPage:44 - WebTest.Test: Clicked Login
+2021-10-15 14:58:03 INFO  LoginPage:50 - WebTest.Test: Typed eposta
+2021-10-15 14:58:05 INFO  LoginPage:52 - WebTest.Test: Clicked continue
+2021-10-15 14:58:05 INFO  LoginPage:54 - WebTest.Test: Typed password
+2021-10-15 14:58:05 INFO  LoginPage:56 - WebTest.Test: Clicked login
+2021-10-15 14:58:09 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 14:58:09 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 14:58:12 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 14:58:12 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:58:12 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 14:58:13 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 14:58:16 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 14:58:16 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:58:16 INFO  MainPage:53 - WebTest.Test: msi is searched
+2021-10-15 14:58:16 INFO  MainPage:59 - WebTest.Test: Scrolled main page down
+2021-10-15 14:58:19 INFO  MainPage:61 - WebTest.Test: Opened second page
+2021-10-15 14:58:19 INFO  MainPage:68 - WebTest.Test: Second page is opened
+2021-10-15 14:58:23 INFO  MainPage:78 - WebTest.Test: Clicked second product
+2021-10-15 14:58:26 INFO  MainPage:80 - WebTest.Test: Clicked add basket
+2021-10-15 14:58:26 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:58:26 INFO  MainPage:87 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 14:58:32 INFO  MainPage:93 - WebTest.Test: Clicked shopping list
+2021-10-15 14:58:32 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:58:32 INFO  MainPage:100 - WebTest.Test: Alışveriş Sepeti Shopping basket exist
+2021-10-15 14:58:32 INFO  MainPage:107 - WebTest.Test: Clicked delete and product deleted
+2021-10-15 14:58:32 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:58:32 INFO  MainPage:118 - WebTest.Test: Alışveriş Sepetiniz konumundan kaldırıldı Product is not exist
+2021-10-15 14:58:33 INFO  MainPage:124 - WebTest.Test: Hovered to account
+2021-10-15 14:58:35 INFO  MainPage:126 - WebTest.Test: Clicked logout
+2021-10-15 14:58:35 INFO  MainPage:79 - Compare Successfull
+2021-10-15 14:58:35 INFO  MainPage:133 - WebTest.Test: Giriş yap page is exist
+2021-10-15 15:04:45 INFO  LoginPage:22 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 15:04:46 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 15:04:46 INFO  LoginPage:28 - WebTest.Test: Main page exist
+2021-10-15 15:04:46 INFO  LoginPage:35 - WebTest.Test: Clicked accept cookies
+2021-10-15 15:04:47 INFO  LoginPage:42 - WebTest.Test: Hovered account
+2021-10-15 15:04:50 INFO  LoginPage:44 - WebTest.Test: Clicked Login
+2021-10-15 15:04:50 INFO  LoginPage:50 - WebTest.Test: Typed eposta
+2021-10-15 15:04:52 INFO  LoginPage:52 - WebTest.Test: Clicked continue
+2021-10-15 15:04:52 INFO  LoginPage:54 - WebTest.Test: Typed password
+2021-10-15 15:04:53 INFO  LoginPage:56 - WebTest.Test: Clicked login
+2021-10-15 15:04:57 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 15:04:57 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 15:05:01 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 15:05:01 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:05:01 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 15:05:01 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 15:05:05 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 15:05:06 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:05:06 INFO  MainPage:53 - WebTest.Test: msi is searched
+2021-10-15 15:05:06 INFO  MainPage:59 - WebTest.Test: Scrolled main page down
+2021-10-15 15:05:08 INFO  MainPage:61 - WebTest.Test: Opened second page
+2021-10-15 15:05:08 INFO  MainPage:68 - WebTest.Test: Second page is opened
+2021-10-15 15:05:12 INFO  MainPage:78 - WebTest.Test: Clicked second product
+2021-10-15 15:05:17 INFO  MainPage:80 - WebTest.Test: Clicked add basket
+2021-10-15 15:05:18 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:05:18 INFO  MainPage:87 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 15:05:24 INFO  MainPage:93 - WebTest.Test: Clicked shopping list
+2021-10-15 15:05:24 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:05:24 INFO  MainPage:100 - WebTest.Test: Alışveriş Sepeti Shopping basket exist
+2021-10-15 15:05:24 INFO  MainPage:107 - WebTest.Test: Clicked delete and product deleted
+2021-10-15 15:05:24 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:05:24 INFO  MainPage:118 - WebTest.Test: Alışveriş Sepetiniz konumundan kaldırıldı Product is not exist
+2021-10-15 15:05:25 INFO  MainPage:124 - WebTest.Test: Hovered to account
+2021-10-15 15:05:27 INFO  MainPage:126 - WebTest.Test: Clicked logout
+2021-10-15 15:05:27 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:05:27 INFO  MainPage:133 - WebTest.Test: Giriş yap page is exist
+2021-10-15 15:12:50 INFO  LoginPage:22 - WebTest.Test: https://www.amazon.com.tr/ opened
+2021-10-15 15:12:50 INFO  LoginPage:79 - WebTest.Test: Amazon logo exist
+2021-10-15 15:12:50 INFO  LoginPage:28 - WebTest.Test: Main page exist
+2021-10-15 15:12:51 INFO  LoginPage:35 - WebTest.Test: Clicked accept cookies
+2021-10-15 15:12:51 INFO  LoginPage:42 - WebTest.Test: Hovered account
+2021-10-15 15:12:53 INFO  LoginPage:44 - WebTest.Test: Clicked Login
+2021-10-15 15:12:53 INFO  LoginPage:50 - WebTest.Test: Typed eposta
+2021-10-15 15:12:55 INFO  LoginPage:52 - WebTest.Test: Clicked continue
+2021-10-15 15:12:55 INFO  LoginPage:54 - WebTest.Test: Typed password
+2021-10-15 15:12:55 INFO  LoginPage:56 - WebTest.Test: Clicked login
+2021-10-15 15:12:59 INFO  MainPage:79 - WebTest.Test: Page content exist
+2021-10-15 15:12:59 INFO  MainPage:21 - WebTest.Test: Logged to Amazon
+2021-10-15 15:13:03 INFO  MainPage:27 - WebTest.Test: Clicked Category pc
+2021-10-15 15:13:03 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:13:03 INFO  MainPage:34 - WebTest.Test: PC category selected
+2021-10-15 15:13:03 INFO  MainPage:40 - WebTest.Test: Typedmsi in searchbox
+2021-10-15 15:13:08 INFO  MainPage:46 - WebTest.Test: Clicked Category pc
+2021-10-15 15:13:08 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:13:08 INFO  MainPage:53 - WebTest.Test: msi is searched
+2021-10-15 15:13:08 INFO  MainPage:59 - WebTest.Test: Scrolled main page down
+2021-10-15 15:13:10 INFO  MainPage:61 - WebTest.Test: Opened second page
+2021-10-15 15:13:10 INFO  MainPage:68 - WebTest.Test: Second page is opened
+2021-10-15 15:13:14 INFO  MainPage:78 - WebTest.Test: Clicked second product
+2021-10-15 15:13:19 INFO  MainPage:80 - WebTest.Test: Clicked add basket
+2021-10-15 15:13:19 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:13:19 INFO  MainPage:87 - WebTest.Test: Sepete Eklendi product is added to basket
+2021-10-15 15:13:25 INFO  MainPage:93 - WebTest.Test: Clicked shopping list
+2021-10-15 15:13:25 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:13:25 INFO  MainPage:100 - WebTest.Test: Alışveriş Sepeti Shopping basket exist
+2021-10-15 15:13:26 INFO  MainPage:107 - WebTest.Test: Clicked delete and product deleted
+2021-10-15 15:13:26 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:13:26 INFO  MainPage:118 - WebTest.Test: Alışveriş Sepetiniz konumundan kaldırıldı Product is not exist
+2021-10-15 15:13:26 INFO  MainPage:124 - WebTest.Test: Hovered to account
+2021-10-15 15:13:29 INFO  MainPage:126 - WebTest.Test: Clicked logout
+2021-10-15 15:13:29 INFO  MainPage:79 - Compare Successfull
+2021-10-15 15:13:29 INFO  MainPage:133 - WebTest.Test: Giriş yap page is exist
