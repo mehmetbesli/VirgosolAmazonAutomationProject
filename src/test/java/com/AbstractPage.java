@@ -13,7 +13,7 @@ import org.testng.Assert;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class AbstractPage {
+public abstract class AbstractPage {
 
     public static WebDriver driver;
     public static WebDriverWait wait;
